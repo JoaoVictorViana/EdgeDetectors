@@ -1,0 +1,6 @@
+PREWITT_OPERATOR = [[-1, 0, 1], [-1, 0, 1], [-1, 0, 1]]
+SOBEL_OPERATOR = [[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]]
+ROBISON_OPERATOR = [[-1, 1, 1], [-1, -2, 1], [-1, 1, 1]]
+KIRSCH_OPERATOR = [[-5, 3, 3], [-5, 0, 3], [-5, 3, 3]]
+LAPRACE_L4_OPERATOR = [[0, 1, 0], [1, -4, 1], [0, 1, 0]]
+LAPRACE_L8_OPERATOR = [[1, 1, 1], [1, -8, 1], [1, 1, 1]]
